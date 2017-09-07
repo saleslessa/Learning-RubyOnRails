@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It is an application using Ruby On Rails for study purposes and it was made guided by official ruby website (http://guides.rubyonrails.org/getting_started.html)
 
-Things you may want to cover:
+* Ruby version: 2.3
 
-* Ruby version
+* Rails version: 5.1.3
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database: sqlite3 (attached)
